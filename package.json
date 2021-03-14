@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "https://leetcode.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1a9s9a4/leetCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1a9s9a4/leetCode/issues"
+  },
+  "homepage": "https://github.com/m1a9s9a4/leetCode#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

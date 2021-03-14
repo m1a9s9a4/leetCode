@@ -13,3 +13,5 @@ var shuffle = function(nums, n) {
     }
     return response;
 };
+
+module.exports = shuffle;
